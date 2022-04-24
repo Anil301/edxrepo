@@ -1,0 +1,11 @@
+names=['Anil','Ananya','Shashi','Ravikanth']
+print(names)
+xyx=names.pop()
+print(names)
+print(xyx)
+xyz=names.pop(0)
+print(xyz)
+print(names)
+yyy=names.pop(0)
+print(yyy)
+print(f"My name is {xyz}")
